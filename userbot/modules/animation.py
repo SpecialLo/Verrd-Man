@@ -488,7 +488,7 @@ async def _(typew):
     sleep(1)
     await typew.edit("`I LOVEE YOUUUU💘💓`")
     sleep(1)
-    await typew.edit("`Tapi Bo'ong`")
+    await typew.edit("`Tapi Bo'ong Hiyakkk`")
 
 
 # Create by myself @localheart
