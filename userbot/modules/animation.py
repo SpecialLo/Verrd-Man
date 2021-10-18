@@ -419,6 +419,22 @@ async def _(typew):
     await typew.edit("`Tambah Aja 5000`")
     sleep(1)
     await typew.edit("`Bercanda`")
+    
+    
+    
+  @bot.on(man_cmd(outgoing=True, pattern=r"boker(?: |$)(.*)"))
+async def _(typew):
+    await typew.edit("`Bang Fer, Bang Fer, Bang Fer`")
+    sleep(1)
+    await typew.edit("`Lu Kang Boker yaa`")
+    sleep(1)
+    await typew.edit("`WOKWOKWKWKWK`")
+    sleep(1)
+    await typew.edit("`Boker TEnGaH MalEm`")
+    sleep(1)
+    await typew.edit("`WKWKW BECANDA BANG YAKELAH`")
+    sleep(1)
+    await typew.edit("`WOWKWKOKWK`")
 
 
 # Create by myself @localheart
