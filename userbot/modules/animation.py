@@ -406,23 +406,7 @@ async def _(e):
     await e.edit("`GABUT`")
 
 
-@bot.on(man_cmd(outgoing=True, pattern=r"terkadang(?: |$)(.*)"))
-async def _(typew):
-    await typew.edit("`Terkadang`")
-    sleep(1)
-    await typew.edit("`Mencintai Seseorang`")
-    sleep(1)
-    await typew.edit("`Hanya Akan Membuang Waktumu`")
-    sleep(1)
-    await typew.edit("`Ketika Waktumu Habis`")
-    sleep(1)
-    await typew.edit("`Tambah Aja 5000`")
-    sleep(1)
-    await typew.edit("`Bercanda`")
-    
-    
-    
-  @bot.on(man_cmd(outgoing=True, pattern=r"boker(?: |$)(.*)"))
+@bot.on(man_cmd(outgoing=True, pattern=r"boker(?: |$)(.*)"))
 async def _(typew):
     await typew.edit("`Bang Fer, Bang Fer, Bang Fer`")
     sleep(1)
@@ -434,7 +418,12 @@ async def _(typew):
     sleep(1)
     await typew.edit("`WKWKW BECANDA BANG YAKELAH`")
     sleep(1)
-    await typew.edit("`WOWKWKOKWK`")
+    await typew.edit("`WOWKWKOKWK`"))
+    
+    
+    
+
+
 
 
 # Create by myself @localheart
