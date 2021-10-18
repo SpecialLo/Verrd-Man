@@ -67,7 +67,7 @@ async def _(event):
 
 @bot.on(man_cmd(outgoing=True, pattern=r"sayang$"))
 async def _(e):
-    await e.edit("I LOVEE YOUUU 💕")
+    await e.edit("I LOVEE YOUUU BUAT ORANG YANG SPESIAL 💕")
     await e.edit("💝💘💓💗")
     await e.edit("💞💕💗💘")
     await e.edit("💝💘💓💗")
