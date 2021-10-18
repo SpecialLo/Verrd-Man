@@ -470,7 +470,7 @@ async def _(event):
 @bot.on(man_cmd(outgoing=True, pattern=r"gombal(?: |$)(.*)"))
 async def _(typew):
     sleep(1)
-    await typew.edit("`Hai, I LOVE YOU 💞`")
+    await typew.edit("`Hai, I LOVE YOU SAYANG AKU MUAHH 💞`")
     sleep(1)
     await typew.edit("`I LOVE YOU SO MUCH!`")
     sleep(1)
