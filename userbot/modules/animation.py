@@ -421,11 +421,6 @@ async def _(typew):
     await typew.edit("`WOWKWKOKWK`")
     
     
-    
-
-
-
-
 # Create by myself @localheart
 
 
